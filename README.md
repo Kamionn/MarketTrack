@@ -13,7 +13,7 @@
 
 ## File Structure
 
-- `PRODUITS-DAT`: Data file where product information is stored in line sequential format.
+- `inventaire_market.dat`: Data file where product information is stored in line sequential format.
 
 ## Getting Started
 
